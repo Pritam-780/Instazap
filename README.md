@@ -6,8 +6,8 @@ This tool simulates an Instagram account breach by using advanced techniques and
 ## 📱Features
 
 - **Real Instagram Breach Simulation:** Simulates a full Instagram hacking sequence, including bypassing 2FA, cracking passwords, and injecting a backdoor.
-- **Stealth Mode:** Operates silently, sending data directly to a Telegram bot without alerting the user.
-- **Full Image Collection:** Retrieves and sends images from your device’s gallery to Telegram, as if collecting data from the target device.
+  **Join our channel:**
+🎭 https://t.me/PkpXhacker
 
 ## 📡 Setup Instructions
 

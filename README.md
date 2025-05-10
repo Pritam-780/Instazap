@@ -18,6 +18,7 @@ Only use this on your personal devices for security testing and learning. **Do N
 ### 1. Clone the Repository
 
 ```bash
+pkg install git
 git clone https://github.com/your-username/instazap.git
 cd instazap
 ```

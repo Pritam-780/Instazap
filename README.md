@@ -15,8 +15,15 @@ This tool simulates an Instagram account breach by using advanced techniques and
 **IMPORTANT:**  
 Only use this on your personal devices for security testing and learning. **Do NOT use it to hack others’ accounts or invade their privacy.**
 
-### 1. Clone the Repository
+### 0. Install Python in Termux (If not installed)
 
+Before you begin, make sure Python is installed:
+
+```bash
+pkg update && pkg upgrade
+pkg install python
+```
+### 1. Clone the Repository
 ```bash
 pkg install git
 git clone https://github.com/Pritam-780/instazap.git

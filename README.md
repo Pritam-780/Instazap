@@ -19,7 +19,7 @@ Only use this on your personal devices for security testing and learning. **Do N
 
 ```bash
 pkg install git
-git clone https://github.com/your-username/instazap.git
+git clone https://github.com/Pritam-780/instazap.git
 cd instazap
 ```
 # 2. Install Required Module 

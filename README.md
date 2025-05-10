@@ -29,15 +29,15 @@ pkg install git
 git clone https://github.com/Pritam-780/instazap.git
 cd instazap
 ```
-# 2. Install Required Module 
+### 2. Install Required Module 
 ```bash
 pip install requests
 ````
-# 3.Grant Storage Permission in Termux
+### 3.Grant Storage Permission in Termux
 ```bash
 termux-setup-storage
 ````
-## 4. Run the Tool in Termux
+### 4. Run the Tool in Termux
 ```bash
 termux-setup-storage
 python instazap.py

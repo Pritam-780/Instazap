@@ -6,8 +6,9 @@ This tool simulates an Instagram account breach by using advanced techniques and
 ## 📱Features
 
 - **Real Instagram Breach Simulation:** Simulates a full Instagram hacking sequence, including bypassing 2FA, cracking passwords, and injecting a backdoor.
-  **Join our channel:**
-🎭 https://t.me/PkpXhacker
+  ## Join our channel:
+- **etchial Hacking related content🥳**
+🤖 https://t.me/PkpXhacker
 
 ## 📡 Setup Instructions
 
